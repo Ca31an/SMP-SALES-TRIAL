@@ -123,7 +123,7 @@ export default function Home() {
         <div className="how-steps">
           <article><b>1</b><h3>Join Discord</h3><p>Use the invite and enter the SMP Sales server.</p></article>
           <article><b>2</b><h3>Open a ticket</h3><p>Choose a service and explain what you need.</p></article>
-          <article><b>3</b><h3>Get started</h3><p>Go to the orders channel and fill out a form of what you require and want..</p></article>
+          <article><b>3</b><h3>Get started</h3><p>Go to the orders channel and fill out a form of what you require and want.</p></article>
         </div>
       </section>
 
