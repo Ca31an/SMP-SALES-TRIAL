@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/banner.jpg",
+        url: "/Banner.jpg",
         width: 1168,
         height: 630,
         alt: "SMP Sales",
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: "SMP Sales - Build Better Digital",
     description:
       "SMP Sales, some of the best freelancers with the finest work you will ever find.",
-    images: ["/banner.jpg"],
+    images: ["/Banner.jpg"],
   },
 };
 
