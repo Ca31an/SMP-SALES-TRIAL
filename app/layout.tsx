@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   icons: { icon: "/smp-sales-mark.svg", shortcut: "/smp-sales-mark.svg" },
   openGraph: {
     title: "SMP Sales - Services done right.",
-    description: "Number 1 best place to buy ",
+    description: "SMP Sales, Some of the best freelances with the finest work you will ever find.",
   },
   twitter: {
     card: "summary",
